@@ -1359,7 +1359,7 @@ fieldset[disabled] .button.is-dark.is-outlined {
 
 .button.is-primary,
 .file.is-primary .file-cta {
-    background-color: #00d1b2;
+    background-color: #a32638;
     border-color: transparent;
     color: #fff
 }
@@ -1401,7 +1401,7 @@ fieldset[disabled] .button.is-dark.is-outlined {
 
 .button.is-primary[disabled],
 fieldset[disabled] .button.is-primary {
-    background-color: #00d1b2;
+    background-color: #a32638;
     border-color: transparent;
     box-shadow: none
 }
@@ -1412,7 +1412,7 @@ fieldset[disabled] .button.is-primary {
 .button.is-primary.is-inverted.is-outlined:focus,
 .button.is-primary.is-inverted.is-outlined:hover {
     background-color: #fff;
-    color: #00d1b2
+    color: #a32638
 }
 
 .button.is-primary.is-inverted[disabled],
@@ -1420,13 +1420,13 @@ fieldset[disabled] .button.is-primary.is-inverted {
     background-color: #fff;
     border-color: transparent;
     box-shadow: none;
-    color: #00d1b2
+    color: #a32638
 }
 
 .button.is-primary.is-outlined {
     background-color: transparent;
-    border-color: #00d1b2;
-    color: #00d1b2
+    border-color: #a32638;
+    color: #a32638
 }
 
 .button.is-primary.is-outlined.is-focused,
@@ -1435,8 +1435,8 @@ fieldset[disabled] .button.is-primary.is-inverted {
 .button.is-primary.is-outlined:hover,
 .table td.is-primary,
 .table th.is-primary {
-    background-color: #00d1b2;
-    border-color: #00d1b2;
+    background-color: #a32638;
+    border-color: #a32638;
     color: #fff
 }
 
@@ -1445,15 +1445,15 @@ fieldset[disabled] .button.is-primary.is-inverted {
 .button.is-primary.is-inverted.is-outlined.is-loading:focus::after,
 .button.is-primary.is-inverted.is-outlined.is-loading:hover::after,
 .button.is-primary.is-outlined.is-loading::after {
-    border-color: transparent transparent #00d1b2 #00d1b2 !important
+    border-color: transparent transparent #a32638 #a32638 !important
 }
 
 .button.is-primary.is-outlined[disabled],
 fieldset[disabled] .button.is-primary.is-outlined {
     background-color: transparent;
-    border-color: #00d1b2;
+    border-color: #a32638;
     box-shadow: none;
-    color: #00d1b2
+    color: #a32638
 }
 
 .button.is-primary.is-light,
@@ -2778,7 +2778,7 @@ fieldset[disabled] .button {
 .table th.is-selected,
 .table tr.is-selected,
 .tag:not(body).is-primary {
-    background-color: #00d1b2;
+    background-color: #a32638;
     color: #fff
 }
 
@@ -2935,19 +2935,19 @@ button.dropdown-item.is-active {
 }
 
 .progress.is-primary::-webkit-progress-value {
-    background-color: #00d1b2
+    background-color: #a32638
 }
 
 .progress.is-primary::-moz-progress-bar {
-    background-color: #00d1b2
+    background-color: #a32638
 }
 
 .progress.is-primary::-ms-fill {
-    background-color: #00d1b2
+    background-color: #a32638
 }
 
 .progress.is-primary:indeterminate {
-    background-image: linear-gradient(to right, #00d1b2 30%, #ededed 30%)
+    background-image: linear-gradient(to right, #a32638 30%, #ededed 30%)
 }
 
 .progress.is-link::-webkit-progress-value {
@@ -3491,7 +3491,7 @@ fieldset[disabled] .select select:hover {
 .is-primary.textarea,
 .select.is-primary select,
 .select.is-primary:not(:hover)::after {
-    border-color: #00d1b2
+    border-color: #a32638
 }
 
 .is-link.input,
@@ -4035,7 +4035,7 @@ fieldset[disabled] .radio {
 
 .help.is-primary,
 .panel.is-primary .panel-block.is-active .panel-icon {
-    color: #00d1b2
+    color: #a32638
 }
 
 .help.is-link,
@@ -4506,7 +4506,7 @@ button.dropdown-item:hover {
 }
 
 .message.is-primary .message-body {
-    border-color: #00d1b2;
+    border-color: #a32638;
     color: #00947e
 }
 
@@ -5149,7 +5149,7 @@ a.navbar-item:hover {
 }
 
 .panel.is-primary .panel-tabs a.is-active {
-    border-bottom-color: #00d1b2
+    border-bottom-color: #a32638
 }
 
 .panel.is-link .panel-tabs a.is-active {
@@ -5786,7 +5786,7 @@ a.has-text-dark:hover {
 
 .has-text-primary,
 .timeline .timeline-item .timeline-marker.is-primary.is-outlined.is-icon>i {
-    color: #00d1b2 !important
+    color: #a32638 !important
 }
 
 a.has-text-primary:focus,
@@ -5795,7 +5795,7 @@ a.has-text-primary:hover {
 }
 
 .has-background-primary {
-    background-color: #00d1b2 !important
+    background-color: #a32638 !important
 }
 
 .has-text-primary-light {
@@ -7742,11 +7742,11 @@ a.has-text-danger-dark:hover {
 .hero.is-primary .tabs.is-toggle li.is-active a:hover {
     background-color: #fff;
     border-color: #fff;
-    color: #00d1b2
+    color: #a32638
 }
 
 .hero.is-primary.is-bold {
-    background-image: linear-gradient(141deg, #009e6c 0, #00d1b2 71%, #00e7eb 100%)
+    background-image: linear-gradient(141deg, #009e6c 0, #a32638 71%, #00e7eb 100%)
 }
 
 .hero.is-link .tabs.is-boxed li.is-active a,
@@ -8168,7 +8168,7 @@ a.has-text-danger-dark:hover {
     }
 
     .hero.is-primary .navbar-menu {
-        background-color: #00d1b2
+        background-color: #a32638
     }
 
     .hero.is-link .navbar-menu {
@@ -8574,7 +8574,7 @@ a.has-text-danger-dark:hover {
     }
 
     .hero.is-primary.is-bold .navbar-menu {
-        background-image: linear-gradient(141deg, #009e6c 0, #00d1b2 71%, #00e7eb 100%)
+        background-image: linear-gradient(141deg, #009e6c 0, #a32638 71%, #00e7eb 100%)
     }
 
     .hero.is-link.is-bold .navbar-menu {
@@ -9279,7 +9279,7 @@ print {
     }
 
     .navbar.is-primary .navbar-dropdown a.navbar-item.is-active {
-        background-color: #00d1b2;
+        background-color: #a32638;
         color: #fff
     }
 
@@ -10120,17 +10120,17 @@ print {
 
 .timeline .timeline-item .timeline-marker.is-primary,
 .timeline .timeline-item .timeline-marker.is-primary.is-icon {
-    background-color: #00d1b2 !important;
-    border-color: #00d1b2 !important
+    background-color: #a32638 !important;
+    border-color: #a32638 !important
 }
 
 .timeline .timeline-item .timeline-marker.is-primary .image {
-    border-color: #00d1b2 !important
+    border-color: #a32638 !important
 }
 
 .timeline .timeline-item .timeline-marker.is-primary.is-outlined {
     background-color: #fff !important;
-    border-color: #00d1b2 !important
+    border-color: #a32638 !important
 }
 
 .timeline .timeline-item .timeline-marker.is-link,
@@ -10228,7 +10228,7 @@ print {
 
 .timeline .timeline-item.is-primary::before,
 .timeline.is-centered .timeline-item.is-primary::before {
-    background-color: #00d1b2
+    background-color: #a32638
 }
 
 .timeline .timeline-item.is-link::before,
